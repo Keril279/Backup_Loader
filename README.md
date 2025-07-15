@@ -56,9 +56,9 @@
   - Годовые бэкапы / Yearly backups: не удаляются автоматически / not automatically deleted  
 
 ## Структура в Google Drive / Google Drive Structure
-Target_Folder/
-└── Source_Folder_Name/
-├── Daily/
-├── Weekly/
-├── Monthly/
-└── Yearly/
+Target_Folder/  
+└── Source_Folder_Name/  
+├── Daily/  
+├── Weekly/  
+├── Monthly/  
+└── Yearly/  
